@@ -6,4 +6,4 @@ This repository is the companion of the EDOC2024 submission. You can find extra 
 
 # Extra BPMN diagrams
 
-[BPMN Folder)(BPMN)
+[BPMN Folder](BPMN)
