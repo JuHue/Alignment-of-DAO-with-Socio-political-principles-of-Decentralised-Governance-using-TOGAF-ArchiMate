@@ -1,10 +1,5 @@
-# On the Alignment of DAO with Socio-political principles of Decentralised Governance using TOGAF and ArchiMate
-Authors: Julien Hue, Irina Rychkova, Nicolas Herbaut
+This repository is the companion of the EDOC2024 submission. You can find extra diagrams that we did not include in the paper due to space limitation.
 
-## Abstract
-BC technology enables new organisational models, e.g. DAO and implementation of decentralised governance mechanisms, such as LD in respect to anarchist principles. 
-However, it is hard to demonstrate the traceability between socio-political artefacts, the governance processes and the technological artefacts enabling these processes. 
-Enterprise Modeling and Enterprise Architecture framework are traditionally used to demonstrate and analyse the alignment between technology and organisational strategy. 
-Yet little research addresses the alignment between socio-political artefacts and technological artefacts in decentralised organisations, such as DAOs. 
-In this work, we use ArchiMate and TOGAF to explicitly reason about processes of decentralised organisational governance grounded on anarchism and their implementation 
-through BC-empowered DAOs. We apply the design science research (DSR) framework to create our research artefact, which is a reference architecture.
+# Complete Motivation Layer Diagram
+![image](https://github.com/edoc2024/paper/assets/960823/996005e6-f9eb-477b-a161-a7b1ec7d0cb9)(
+(ArchiMate Model/motivation.pdf)
